@@ -1,0 +1,1 @@
+In this project, I will compare lump sum investing vs DCA (dollar cost averaging) investing strategies based on historical data. I will look into both the S&P500, and Bitcoin/Ethereum historical values.
